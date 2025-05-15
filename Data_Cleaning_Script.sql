@@ -1,6 +1,3 @@
-USE Datasets;
-GO
-
 -- Step 1: Review raw data
 SELECT * FROM layoffs;
 
